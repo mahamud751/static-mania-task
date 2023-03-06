@@ -127,6 +127,11 @@ const Footer = () => {
               </div>
             </div>
           </div>
+          <div style={{ background: "#503AE7" }}>
+            <p className="text-center text-white py-3">
+              © Copyright Finsweet 2021
+            </p>
+          </div>
         </div>
       </div>
     </div>
